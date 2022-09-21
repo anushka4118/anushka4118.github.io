@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanushka_4118_github_io=self.webpackChunkanushka_4118_github_io||[]).push([[677],{2017:e=>{e.exports=JSON.parse('{"pageTitle":"My Site","pageDescription":"About me."}')}}]);

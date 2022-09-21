@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkanushka_4118_github_io=self.webpackChunkanushka_4118_github_io||[]).push([[477],{10:s=>{s.exports={blogPosts:[]}}}]);
